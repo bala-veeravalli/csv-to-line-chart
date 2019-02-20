@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chart.js": "^2.7.3",
+    "papaparse": "^4.6.3",
     "react": "^16.8.2",
+    "react-chartkick": "^0.3.0",
     "react-dom": "^16.8.2"
   },
   "devDependencies": {
